@@ -7,4 +7,4 @@ This note describes a design for a 3D printed enclosure for the QCX transceiver 
 •	LiPo 4s battery, giving a transmit power of 5W
 •	GPS for WSPR operation, enabled or disabled by the power switch
 
-Construction is described in some detail in the document "Compact 3D printed QCX enclosure - construction notes.docx"
+Construction is described in some detail in the document "Compact 3D printed QCX enclosure - construction notes"
